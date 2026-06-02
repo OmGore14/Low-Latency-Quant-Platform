@@ -1,0 +1,11 @@
+build/
+build-asan/
+*.csv
+*.so
+*.o
+*.a
+cachegrind.out.*
+callgrind.out.*
+perf.data*
+.vscode/
+
