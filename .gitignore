@@ -9,3 +9,5 @@ callgrind.out.*
 perf.data*
 .vscode/
 
+hands-on-experiments/vector_vs_list
+hands-on-experiments/cache_cliff
