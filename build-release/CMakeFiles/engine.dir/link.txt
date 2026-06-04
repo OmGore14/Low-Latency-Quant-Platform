@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-15" qc libengine.a CMakeFiles/engine.dir/src/engine.cpp.o
+"/usr/bin/gcc-ranlib-15" libengine.a

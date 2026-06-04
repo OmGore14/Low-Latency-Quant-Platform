@@ -9,5 +9,7 @@ callgrind.out.*
 perf.data*
 .vscode/
 
+data/synthetic_large.csv
+
 hands-on-experiments/vector_vs_list
 hands-on-experiments/cache_cliff

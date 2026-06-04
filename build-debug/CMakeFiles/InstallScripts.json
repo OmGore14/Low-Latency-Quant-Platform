@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/om-gore/Low-Latency-Quant-Platform/build-debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

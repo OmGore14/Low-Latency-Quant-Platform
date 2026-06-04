@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+

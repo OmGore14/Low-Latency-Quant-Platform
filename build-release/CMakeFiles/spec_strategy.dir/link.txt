@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -march=native -O3 -DNDEBUG -flto=auto -fno-fat-lto-objects -shared -Wl,--dependency-file=CMakeFiles/spec_strategy.dir/link.d -Wl,-soname,spec_strategy.so -o spec_strategy.so CMakeFiles/spec_strategy.dir/strategies/spec_strategy.cpp.o
