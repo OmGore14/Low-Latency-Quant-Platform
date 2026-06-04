@@ -1,1 +1,0 @@
-/usr/bin/c++ -O0 -g -Wl,--dependency-file=CMakeFiles/quant_bench.dir/link.d CMakeFiles/quant_bench.dir/bench/bench.cpp.o -o quant_bench  libengine.a /usr/lib/x86_64-linux-gnu/libbenchmark.so.1.9.1 -ldl

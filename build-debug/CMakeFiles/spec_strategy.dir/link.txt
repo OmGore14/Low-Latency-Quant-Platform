@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O0 -g -shared -Wl,--dependency-file=CMakeFiles/spec_strategy.dir/link.d -Wl,-soname,spec_strategy.so -o spec_strategy.so CMakeFiles/spec_strategy.dir/strategies/spec_strategy.cpp.o

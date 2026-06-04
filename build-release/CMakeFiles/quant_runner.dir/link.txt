@@ -1,1 +1,0 @@
-/usr/bin/c++ -O2 -march=native -O3 -DNDEBUG -flto=auto -fno-fat-lto-objects -Wl,--dependency-file=CMakeFiles/quant_runner.dir/link.d CMakeFiles/quant_runner.dir/src/main.cpp.o -o quant_runner  libengine.a -ldl

@@ -1,6 +1,0 @@
-/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/engine.dir
-/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/quant_runner.dir
-/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/spec_strategy.dir
-/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/quant_bench.dir
-/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/edit_cache.dir
-/home/om-gore/Low-Latency-Quant-Platform/build-release/CMakeFiles/rebuild_cache.dir
