@@ -15,7 +15,7 @@
 //  Everything must live in this ONE translation unit. The judge builds exactly
 //  this file against its own main(); no extra .cpp, no custom CMake.
 // ============================================================================
-
+ 
 #include "cache_sim.hpp"
 
 namespace {

@@ -1,7 +1,7 @@
 // ============================================================================
 //  cache_sim.hpp — CSoT'26 Low Latency Track, Week 2
 //
-//  THIS IS A FROZEN ABI.
+//  THIS IS A FROZEN ABI. 
 //  ----------------------
 //  The Week-2 judge builds your single cache_sim.cpp against this header and a
 //  judge-owned main(). It constructs your simulator via create_cache_sim() and
@@ -33,7 +33,7 @@
 
 #include <cstddef>
 #include <cstdint>
-
+ 
 namespace csot {
 
 // ---------------------------------------------------------------------------
